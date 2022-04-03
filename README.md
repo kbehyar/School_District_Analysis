@@ -1,8 +1,8 @@
 # School_District_Analysis
 
-### Overview of the school district analysis:
+# Overview of the school district analysis:
 
-# Purpose:
+### Purpose:
 
 The purpose of this project is to analyze the data provided from several schools within a district based on their student's performance on a Math and Reading examination to determine their performance and to provide insight to help the district make stratigic decisions 
 
@@ -11,7 +11,7 @@ We will be basing our analysis on the student population within a school and the
 We were recently notified of a case of academic dishonsety within Thomas High School were asked to re-adjust our original analysis by omitting the grade 9 math and reading scores from our data.
 
 
-# Results:
+### Results:
 
 After omitting Thomas high school's 9th grade math and reading scores from our data, the overall District summary did show any significant changes. Other than the mentioned metric below, all other findings remained the same:
 
@@ -31,7 +31,7 @@ https://github.com/kbehyar/School_District_Analysis/blob/main/Images/THS_summary
 https://github.com/kbehyar/School_District_Analysis/blob/main/Images/THS_updated_summary_dataframe.png
 
 
-# Summary:
+### Summary:
 
 
 #
