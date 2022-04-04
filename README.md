@@ -15,10 +15,10 @@ We were recently notified of a case of academic dishonesty within Thomas High Sc
 
 After omitting Thomas high school's 9th grade math and reading scores from our data, the overall District summary did show any significant changes. Other than the mentioned metric below, all other findings remained the same:
 
--Average math score changed from 79 > 78.9
--Passing Math percentage changed from 75% > 74.8%
--Passing Reading percentage changed from 86% > 85.7%
--Overall Passing percentage changed from 65% > 64.9%
+- Average math score changed from 79 > 78.9
+- Passing Math percentage changed from 75% > 74.8%
+- Passing Reading percentage changed from 86% > 85.7%
+- Overall Passing percentage changed from 65% > 64.9%
 
 https://github.com/kbehyar/School_District_Analysis/blob/main/Images/District%20changes.PNG
 
@@ -27,9 +27,9 @@ https://github.com/kbehyar/School_District_Analysis/blob/main/Images/District%20
 
 After readjusting our data for Thomas high school grade 9, the new total student count was 38,709. The following are other changes that occured for Thomas high school following this adjustment. 
 
--The Passing Math persentage changed from:  93.27% > 66.91%.
--The Passing Reading percentage changed from: 97.31% > 69.66%. 
--The Overall Passing percentage changed from: 90.95% > 65.08%.
+- The Passing Math persentage changed from:  93.27% > 66.91%.
+- The Passing Reading percentage changed from: 97.31% > 69.66%. 
+- The Overall Passing percentage changed from: 90.95% > 65.08%.
 
 The two pictures blow show the change in Thoma high school performance BEFORE and AFTER their 9th grade scores were omitted from the analysis:
 
