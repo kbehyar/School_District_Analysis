@@ -65,4 +65,5 @@ https://github.com/kbehyar/School_District_Analysis/blob/main/Images/School%20ty
 
 ### Summary:
 
-By omitting Thomas high school's 9th grade scores from our data, the results 
+By omitting Thomas high school's 9th grade scores from our data, the updated results only saw minor changes in their averages and passing percentages. 
+
